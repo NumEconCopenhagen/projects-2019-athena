@@ -1,6 +1,6 @@
 # Dataproject
 
-se file "Project1_v3.ipynb" under "dataproject"
+se file "Project1_vFinal.ipynb" under "dataproject"
 
 This project investigates different aspects of women's pay over time. This includes the following: women's share of men's pay, number of women employed full-time vs. part-time as well as women's employment frequency. The purpose is to explore whether these the latter two aspects can explain the former. 
 
